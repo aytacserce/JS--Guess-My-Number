@@ -1,5 +1,5 @@
 # JS---Guess-My-Number
-07.02.2022
+14.06.2022
 ## Practices
 . Values and Variables
 . Data Types
