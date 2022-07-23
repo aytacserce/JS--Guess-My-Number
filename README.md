@@ -1,4 +1,4 @@
-# JS---Guess-My-Number
+# JS--Guess-My-Number
 14.06.2022
 ## Practices
 . Values and Variables
